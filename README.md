@@ -38,7 +38,7 @@ pip install -r requirements.txt
 From the root folder of the project, run:
 
 ```bash
-PYTHONPATH=. pytest
+pytest
 ```
 
 This will discover and execute all tests under the `tests/` directory.
